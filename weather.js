@@ -97,19 +97,19 @@ async function getCurrWeather() {
 
         if(condition.includes("Sunny")
             || condition.includes("Clear")) {
-            document.body.style.backgroundImage = "url('/Weather App/sunny blur.jpg')";
+            document.body.style.backgroundImage = "url('sunny blur.jpg')";
         } 
         else if(condition.includes("Mist")
             || condition.includes("loudy")
             || condition.includes("cloudy")
             || condition.includes("haze")) {
-            document.body.style.backgroundImage = "url('/Weather App/clowdy blur.jpg')";
+            document.body.style.backgroundImage = "url('clowdy blur.jpg')";
         }
         else if(condition.includes("rain")) {
-            document.body.style.backgroundImage = "url('/Weather App/rainy blur.jpg')";
+            document.body.style.backgroundImage = "url('rainy blur.jpg')";
         } 
         else if (condition.includes("Thunder")) {
-            document.body.style.backgroundImage = "url('/Weather App/thunder blur.jpg')";
+            document.body.style.backgroundImage = "url('thunder blur.jpg')";
         }
     }
     catch(error){
