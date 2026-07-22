@@ -5,7 +5,7 @@ A weather application that displays real-time weather information using a Weathe
 [Try the Quiz App](https://gig-warrior.github.io/Weather-App/)
 
 ## Screenshorts
-![Quiz App Screenshot]()
+![Quiz App Screenshot](screenshot.png)
 
 ## Features
 - Search any city
