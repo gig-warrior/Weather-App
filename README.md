@@ -2,7 +2,7 @@
 A weather application that displays real-time weather information using a Weather API.
 
 ## Live Demo
-[Try the Quiz App](https://gig-warrior.github.io/Weather-App/)
+[Try the Weather App](https://gig-warrior.github.io/Weather-App/)
 
 ## Screenshorts
 ![Quiz App Screenshot](screenshot.png)
